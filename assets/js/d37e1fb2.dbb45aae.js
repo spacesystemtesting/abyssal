@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[47],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/evaera/plasma/blob/main","baseUrl":"/plasma/","classOrder":[],"apiCategories":["hooks","utilities","style","widgets"]}')}}]);
